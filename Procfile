@@ -1,0 +1,1 @@
+web: gunicorn acupuncture_v1.wsgi
